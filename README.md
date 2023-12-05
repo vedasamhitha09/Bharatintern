@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 - [Node.js](https://nodejs.org/) installed
 - [MongoDB](https://www.mongodb.com/) installed and running
 
-##Usage
+## Usage
 Visit the website to read blog posts.
 It's free to write new posts.
  
